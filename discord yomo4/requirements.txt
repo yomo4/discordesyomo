@@ -1,0 +1,7 @@
+# Requirements for discord-bot-by-yomo4
+# Author: @yomo4 (https://github.com/yomo4)
+
+discord.py>=2.0.0
+python-dotenv
+PyNaCl
+youtube_dl 
